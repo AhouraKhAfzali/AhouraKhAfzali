@@ -12,9 +12,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AhouraKhAfzali&theme=ambient_gradient&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AhouraKhAfzali&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AhouraKhAfzali&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
 

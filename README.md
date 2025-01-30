@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm a passionate programmer and web developer with a focus on backend development. I thrive on creating efficient and scalable solutions that power dynamic web applications. With a strong foundation in server-side technologies and databases, I enjoy tackling complex challenges and optimizing performance to ensure seamless user experiences.<br><br>💼 **Professional Experience:**<br>- Extensive experience in backend development using languages like Python and Django framework.<br>- Proficient in database management with MySQL and SQLi.<br>- Skilled in building RESTful APIs and integrating third-party services.<br><br>🔍 **Interests:**<br>- Exploring new technologies and staying up-to-date with industry trends.<br>- Collaborating with cross-functional teams to deliver high-quality products.<br>- Contributing to open-source projects and participating in coding communities.<br><br>🌐 **Find Me:**<br>- LinkedIn: https://linkedin.com/in/ahoura-khajehafzali-a455a2349<br>- Personal Website/Portfolio: https://ahourakhafzali.github.io/My-portfolio/<br>- Instagram: https://www.instagram.com/ahoura.kh.afzali?igsh=MTZ5bWhwbTlhcWY2OQ==<br><br>Feel free to connect with me to discuss anything related to technology, coding, or even just to say hi! <br>
+👋 Hi there! I'm a passionate programmer and web developer with a focus on backend development. I thrive on creating efficient and scalable solutions that power dynamic web applications. With a strong foundation in server-side technologies and databases, I enjoy tackling complex challenges and optimizing performance to ensure seamless user experiences.<br><br>💼 **Professional Experience:**<br>- Extensive experience in backend development using languages like Python and Django framework.<br>- Proficient in database management with MySQL and SQLi.<br>- Skilled in building RESTful APIs and integrating third-party services.<br><br>🛠️ **Skills:**<br>- Programming Languages: Python, C#, JavaScript, PHP, HTML, CSS<br>- Databases: MySQL, SQLite<br>- Tools & Frameworks: Django, RESTful APIs, Django Rest Framework, Numpy<br><br>📜 **Certifications:**<br>- Python Fundamentals For Beginners (Great Learning)<br><br>🔍 **Interests:**<br>- Exploring new technologies and staying up-to-date with industry trends.<br>- Collaborating with cross-functional teams to deliver high-quality products.<br>- Contributing to open-source projects and participating in coding communities.<br><br>🌐 **Find Me:**<br>- LinkedIn: https://linkedin.com/in/ahoura-khajehafzali-a455a2349<br>- Personal Website/Portfolio: https://ahourakhafzali.github.io/My-portfolio/<br>- Instagram: https://www.instagram.com/ahoura.kh.afzali?igsh=MTZ5bWhwbTlhcWY2OQ==<br><br>Feel free to connect with me to discuss anything related to technology, coding, or even just to say hi! <br>
 
 
 ## 🌐 Socials:
@@ -11,6 +11,12 @@
 ![](https://github-readme-stats.vercel.app/api?username=AhouraKhAfzali&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AhouraKhAfzali&theme=ambient_gradient&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AhouraKhAfzali&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AhouraKhAfzali&theme=ambient_gradient&no-frame=true&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AhouraKhAfzali&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
